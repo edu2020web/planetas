@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Helvetica;
+    background-image: url(https://www.noticiasbrown.com/wp-content/uploads/2020/07/universo.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color:#993ed6 ;
+}   
+
+nav
+{
+    background-color:#6f05e8;
+    padding: 0px;
+    color:#d105e8 ;
+}
